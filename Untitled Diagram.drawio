@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-23T23:29:55.578Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="kCzMA2egpiaopGn8S_qo" version="13.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-23T23:44:10.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="AUXXMqqOigz98nKt1boR" version="13.5.1" type="github">
   <diagram id="gsV8GUzg9SOAlhobHJ_y" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -94,6 +94,33 @@
         </mxCell>
         <mxCell id="jfPYH1TMYMiqqHDWli_H-28" value="Employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="860" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-29" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="920" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-30" value="Punch out for 30 minute break" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="910" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-31" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="970" as="sourcePoint" />
+            <mxPoint x="160" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-32" value="Employee" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-33" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1050" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-34" value="Punch in from 30 minute break" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1040" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jfPYH1TMYMiqqHDWli_H-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1100" as="sourcePoint" />
+            <mxPoint x="160" y="1080" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
